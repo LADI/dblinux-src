@@ -1,0 +1,5 @@
+media-libs/gd		fontconfig
+media-libs/harfbuzz	icu
+media-libs/libglvnd	X
+media-libs/opus		custom-modes
+media-libs/suil		gtk2

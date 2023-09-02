@@ -1,0 +1,4 @@
+# These versions cause catalyst to fail by failing pkg_pretend with requiring gcc[openmp]
+# Ebuilds have been copied to /var/db/repos/catalyst in case upstream nukes 0.94.1 before releasing a working update
+#=app-portage/portage-utils-0.94.3
+#=app-portage/portage-utils-0.94.4

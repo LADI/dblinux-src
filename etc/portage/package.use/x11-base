@@ -1,0 +1,2 @@
+# Graphics acceleration causes xruns and isn't needed for audio production
+x11-base/xorg-drivers	-video_cards_nouveau

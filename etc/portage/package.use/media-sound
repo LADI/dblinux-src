@@ -1,0 +1,15 @@
+media-sound/ambdec		doc
+media-sound/ardour		phonehome
+media-sound/audacity		-mpg123			#mad already used
+media-sound/bitwig-studio       cpu_flags_x86_sse4_1
+media-sound/cadence		a2jmidid
+media-sound/drumkv1		lv2 standalone
+media-sound/lame		-frontend
+media-sound/linuxsampler	alsa jack lv2
+media-sound/mpg123		-jack -sdl
+media-sound/padthv1		alsa lv2 standalone
+media-sound/pure-data		alsa fftw jack
+media-sound/samplv1		alsa lv2 standalone
+media-sound/synthv1		alsa lv2 standalone
+media-sound/zynaddsubfx		alsa dssi fltk jack lash
+

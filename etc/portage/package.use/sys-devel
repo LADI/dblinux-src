@@ -1,0 +1,2 @@
+# Needed to get compile stage3
+sys-devel/gettext	-openmp

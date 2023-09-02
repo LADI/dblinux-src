@@ -1,0 +1,36 @@
+# The presence of a package here does not mean the package is installed.
+# Listing a package here could simply be preparation or making sure it's not forgotten pre-stage4 build.
+media-sound/afsp
+media-sound/aliki
+media-sound/ambdec
+media-sound/ardour
+media-sound/arpage
+media-sound/bitmeter
+media-sound/bitwig-studio
+media-sound/boodler
+media-sound/butt
+media-sound/carla
+media-sound/drumkv1
+media-sound/galan
+media-sound/ghostess
+media-sound/gmidimonitor	**
+media-sound/hydrogen-drumkits
+media-sound/jackmidiclock	**
+media-sound/jamin
+media-sound/japa
+media-sound/ladish
+# LMMS 1.2.2 No longer reliably compiles due to non-LMMS changes
+media-sound/lmms		**
+media-sound/luppp
+media-sound/new-session-manager
+media-sound/padthv1
+media-sound/patchage
+media-sound/pure-data
+media-sound/qmidiarp
+media-sound/samplv1		**
+media-sound/sc3-plugins
+media-sound/serialosc
+media-sound/sooperlooper
+media-sound/supercollider
+media-sound/synthv1
+media-sound/tk707

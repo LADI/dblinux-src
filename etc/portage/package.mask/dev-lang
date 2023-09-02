@@ -1,0 +1,2 @@
+# Force use of rust-bin to avoid long compilation times
+dev-lang/rust

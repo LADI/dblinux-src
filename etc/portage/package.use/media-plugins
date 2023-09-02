@@ -1,0 +1,5 @@
+media-plugins/adlplug		lv2 standalone vst
+# Needed to enable streaming client:
+media-plugins/audacious-plugins http
+media-plugins/distrho-ports	lv2 vst
+media-plugins/opnplug           lv2 standalone vst

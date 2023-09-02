@@ -1,0 +1,23 @@
+Welcome to decibel Linux. 
+
+If you double-clicked on this file to read it, you are (probably) reading it with Geany. If all you need is a text editor, Geany will do the job, but feel free to install your preferred Notepad-type app. Geany will do much more than handle text files, though, if you need to code something.
+
+For a complete list of installed packages, go to https://gentoostudio.org. You may need to scroll down to see the app list. Note that the app list on the web site may differ slightly from your installed apps, because the installer may have been updated since you installed decibel Linux. 
+
+The primary DAW software for decibel Linux is Ardour. (https://ardour.org) The free, compiled-from-source version is installed by default. If you like it and use it frequently, please consider purchasing Ardour for literally any price you feel you can afford - yes, even $1. You can also subscribe to be a monthly financial contributor, as Ardour is always in active development for even more improvements. You can find support for Ardour on their web site, or by joining #ardour on Libera. 
+
+If you are a mix engineer, Harrison Mixbus and Mixbus 32C, both based on Ardour, are available at https://harrisonconsoles.com/. I highly recommend 32C. 
+
+decibel Linux uses JACK2 and ALSA as its sound back end. If you know how and would prefer to, you can use Pipewire and/or Pulseaudio, but those are not currently officially supported by decibel Linux. (Perhaps in the future, though.)
+
+All sound, MIDI and recording programs can be found in the main menu -> Multimedia. 
+
+For questions, comments and suggestions about decibel Linux, you may use any of the following:
+Discord: https://discord.gg/73XV24dNPN (preferred by me, as this is the fastest way to get a response. Discord on my phone will notify me.)
+IRC: #gentoostudio on Libera
+Gentoo forums: https://forums.gentoo.org/viewtopic-t-1150988-start-50-postdays-0-postorder-asc-highlight-.html
+Please be patient, as my day job keeps me busy. 
+
+If your question is more about Gentoo itself, you are free to use the above channels of support, but you may get more/better/faster answers by posting to the Gentoo Forums. (https://forums.gentoo.org)
+
+I hope you enjoy decibel Linux and using it as a platform for MIDI and audio. :)
